@@ -14,3 +14,4 @@ I wish you success in learning.
 I'll add python's latest installation package below and you can explore it yourself or search and install it online.
 
 （Note that be sure to select in the path. ）
+ 
